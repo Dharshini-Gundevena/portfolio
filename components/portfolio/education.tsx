@@ -13,7 +13,7 @@ const education = [
     institution: "Sri Chaitanya Junior College",
     duration: "2023 - 2025",
     description: "Completed with Science stream (Physics, Chemistry, Mathematics, Computer Science).",
-    highlights: ["Percentage: 96%", "School Topper "],
+    highlights: ["Percentage: 96%"],
   },
 ]
 
