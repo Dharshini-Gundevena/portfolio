@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="py-8 px-6 border-t border-border">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
         <p className="text-muted-foreground text-sm font-mono">
-          Designed &amp; Built by Alex Kumar
+          Designed &amp; Built by  Dharshini Gundevena
         </p>
         
         <div className="flex items-center gap-6">
@@ -27,7 +27,7 @@ export function Footer() {
             <Linkedin className="w-5 h-5" />
           </Link>
           <Link
-            href="mailto:alex.kumar@email.com"
+            href="mailto:dharshinigundevena@email.com"
             className="text-muted-foreground hover:text-primary transition-colors"
             aria-label="Email"
           >
