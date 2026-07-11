@@ -19,7 +19,7 @@ export function Navigation() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <nav className="max-w-7xl mx-auto px-6 md:px-12 py-4 flex items-center justify-between">
         <Link href="/" className="text-xl font-bold text-foreground">
-          <span className="text-primary">&lt;</span>AK<span className="text-primary">/&gt;</span>
+          <span className="text-primary">&lt;</span>GD<span className="text-primary">/&gt;</span>
         </Link>
 
         {/* Desktop Navigation */}
