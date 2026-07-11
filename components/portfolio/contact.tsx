@@ -52,7 +52,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-muted-foreground text-sm">Location</p>
-                <p className="text-foreground">Bangalore, India</p>
+                <p className="text-foreground">Hyderabad, India</p>
               </div>
             </div>
 
@@ -62,7 +62,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-muted-foreground text-sm">Phone</p>
-                <p className="text-foreground">+91 98765 43210</p>
+                <p className="text-foreground">+91 9704912600</p>
               </div>
             </div>
 

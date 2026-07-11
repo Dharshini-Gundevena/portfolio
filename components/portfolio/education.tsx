@@ -6,7 +6,7 @@ const education = [
     institution: "MLR Institute of Technology",
     duration: "2025 - 2029 (Expected)",
     description: "First-year student with focus on programming fundamentals, data structures, and web development.",
-    highlights: ["CGPA: 8.75/10", "Active member of Coding Club", "Participated in College Hackathon"],
+    highlights: ["CGPA: 8.75/10", "Participated in College Hackathon"],
   },
   {
     degree: "Higher Secondary (12th)",
